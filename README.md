@@ -10,10 +10,6 @@ Aplicativo simples de gerenciamento de notas desenvolvido com Vue.js. Permite ad
 - Remover notas individualmente
 - Interface leve e responsiva com estilo personalizado
 
-##  Preview
-
-![Screenshot](screenshot.png) <!-- opcional: substitua por uma imagem do app se quiser -->
-
 ##  Tecnologias utilizadas
 
 - [Vue.js 3](https://vuejs.org/)
@@ -24,7 +20,7 @@ Aplicativo simples de gerenciamento de notas desenvolvido com Vue.js. Permite ad
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/notas-vue.git
+git clone https://github.com/joberdan88/notas-vue.git
 
 # Acesse a pasta
 cd notas-vue
